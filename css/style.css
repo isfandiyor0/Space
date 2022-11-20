@@ -1,0 +1,215 @@
+body,
+html {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.section1 {
+	background-image: url(/img/homeBg.png);
+	background-repeat: no-repeat, repeat;
+	background-size: 100%;
+}
+
+.logo {
+	padding: 24px 64px 0 55px;
+}
+
+.line {
+	position: absolute;
+	margin-top: 48px;
+}
+
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+	display: block;
+}
+
+.navbar {
+	margin: 0 auto;
+	padding-top: 40px;
+}
+
+
+nav {
+	background-image: url(/img/navBg.png);
+	background-repeat: no-repeat, repeat;
+	float: right;
+	width: 830px;
+	height: 96px;
+	overflow: hidden;
+	position: relative;
+	padding-bottom: 211px;
+
+}
+
+ul {
+	margin: 39px auto;
+}
+
+li {
+	display: inline;
+	float: right;
+	margin-right: 42px;
+}
+
+span {
+	color: #FFFFFF;
+}
+
+.tech {
+	padding-right: 117px;
+}
+
+.home-title1 {
+	width: 450px;
+	position: relative;
+	float: left;
+	margin-top: 251px;
+}
+.home-title2{
+width: 450px;
+position: relative;
+float: left;
+}
+
+.explor img {
+	margin-left: 386px;
+	margin-top: 110px;
+}
+
+.space-title {
+	color: #FFFFFF;
+	width: 1110px;
+	margin: 0 auto;
+	padding-bottom: 131px;
+}
+
+.moon-titel {
+	color: #FFFFFF;
+	font-family: 'Bellefair';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 150px;
+	margin: 24px 0 37px 0;
+}
+
+.sub-title {
+	color: #D0D6F9;
+	font-family: 'Barlow Condensed';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28px;
+	margin: 0;
+}
+
+.titel {
+	color: #FFFFFF;
+	font-family: 'Bellefair';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 150px;
+	margin: 24px 0 63px 0;
+}
+
+.text-home {
+	color: #D0D6F9;
+	font-family: 'Barlow';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	margin: 0;
+}
+
+/* destination */
+.destination {
+	background-image: url(/img/destinationBg.jpg);
+	background-repeat: no-repeat, repeat;
+	background-size: 100% 100%;
+}
+
+.moon {
+	float: left;
+	margin-right: 155px;
+}
+
+.destination-sec {
+	padding-bottom: 790px;
+}
+
+.destination-text {
+	margin-bottom: 97px;
+	color: #FFFFFF;
+	font-family: 'Barlow Condensed';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 21px;
+	line-height: 34px;
+	letter-spacing: 4.725px;
+	text-transform: uppercase;
+	margin-top: -76px;
+}
+
+.destin-span {
+	margin-right: 28px;
+	mix-blend-mode: normal;
+	opacity: 0.25;
+	font-family: 'Barlow Condensed';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 0.34em;
+	letter-spacing: 2.725px;
+	color: #FFFFFF;
+}
+
+.moon-nav,
+a {
+	padding: 0;
+	margin: 0;
+	float: left;
+	font-family: 'Barlow Condensed';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 2.7px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+
+.moon-dist {
+	float: left;
+	margin-right: 79px;
+	text-transform: uppercase;
+}
+
+.moon-trav {
+	text-transform: uppercase;
+}
+
+.moon-dist-text {
+	font-family: 'Barlow Condensed';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 17px;
+	letter-spacing: 2.3625px;
+	text-transform: uppercase;
+	color: #D0D6F9;
+}
+
+.moon-line {
+	margin: 54px 0 28px 0;
+}
+
+.moon-dist-km {
+	font-family: 'Bellefair';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28px;
+	line-height: 32px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
