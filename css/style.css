@@ -6,7 +6,7 @@ html {
 }
 
 .section1 {
-	background-image: url(/img/homeBg.png);
+	background-image: url(../img/homeBg.png);
 	background-repeat: no-repeat, repeat;
 	background-size: 100%;
 }
@@ -33,7 +33,7 @@ a {
 
 
 nav {
-	background-image: url(/img/navBg.png);
+	background-image: url(../img/navBg.png);
 	background-repeat: no-repeat, repeat;
 	float: right;
 	width: 830px;
@@ -124,7 +124,7 @@ float: left;
 
 /* destination */
 .destination {
-	background-image: url(/img/destinationBg.jpg);
+	background-image: url(../img/destinationBg.jpg);
 	background-repeat: no-repeat, repeat;
 	background-size: 100% 100%;
 }
